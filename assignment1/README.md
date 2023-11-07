@@ -12,6 +12,7 @@ Activate the virtual environment
 source a1_venv/bin/activate
 ```
 
+Install required libraries
 ```
 pip install -r requirements.txt
 ```
