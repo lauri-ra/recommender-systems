@@ -1,6 +1,6 @@
 ## How to run this assignment
 
-Before running any commands, make sure that you have python installed and you're in the assignment1 direcotry.
+Before running any commands, make sure that you have python installed and you're in the assignment2 direcotry.
 Next run these to get started:
 
 Create a virtual environment for the project
